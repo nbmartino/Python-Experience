@@ -1,0 +1,275 @@
+Netherlands	/search?q=India
+Netherlands	/search?q=India#100
+Netherlands	/search?q=India100
+Philippines	/2021/01/revelation-222.html
+Philippines	/search?q=
+Philippines	/search?q=any
+Philippines	/search?q=Argentina#28
+Philippines	/search?q=argentina#30
+Philippines	/search?q=Argentina#32
+Philippines	/search?q=france#517
+Philippines	/search?q=france#520
+Philippines	/search?q=france#521
+Philippines	/search?q=france#522
+Philippines	/search?q=france#523
+Philippines	/search?q=france#524
+Philippines	/search?q=france#525
+Philippines	/search?q=france#526
+Philippines	/search?q=france#527
+Philippines	/search?q=france#533
+Philippines	/search?q=hungary#54
+Philippines	/search?q=iceland#58
+Philippines	/search?q=latvia=#42
+Philippines	/search?q=malaysia#20
+Philippines	/search?q=malaysia#35
+Philippines	/search?q=netherlands#388
+Philippines	/search?q=netherlands#440
+Philippines	/search?q=revelation
+Philippines	/search?q=singapore#237
+Philippines	/search?q=singapore#241
+Philippines	/search?q=singapore#242
+Philippines	/search?q=singapore#243
+Philippines	/search?q=singapore#256
+Philippines	/search?q=singapore#260
+Philippines	/search?q=singapore#261
+Philippines	/search?q=singapore#262
+Philippines	/search?q=singapore#263
+Philippines	/search?q=singapore#264
+Philippines	/search?q=singapore#265
+Philippines	/search?q=singapore#268
+Philippines	/search?q=singapore#270
+Philippines	/search?q=singapore#271
+Philippines	/search?q=singapore#272
+Philippines	/search?q=singapore#273
+Philippines	/search?q=singapore#274
+Philippines	/search?q=singapore#275
+Philippines	/search?q=thailand#12
+Philippines	/search?q=thailand#16
+Philippines	/search?q=turkey#37
+Philippines	/search?q=united arab emirates#49
+Philippines	/search?q=united arab emirates#50
+Philippines	/search?q=united arab emirates#51
+Philippines	/search?q=united arab emirates#52
+Philippines	/search?q=united arab emirates#53
+Philippines	/search?q=vietnam#25
+Philippines	/search?q=vietnam#27
+
+
+
+Romania	/search?q=greece#26
+Romania	/search?q=greece#27
+Romania	/search?q=greece#28
+Romania	/search?q=greece#29
+Romania	/search?q=greece#30
+Romania	/search?q=greece#31
+Romania	/search?q=portugal#37
+Romania	/search?q=portugal#38
+Romania	/search?q=portugal#39
+Romania	/search?q=portugal#44
+Romania	/search?q=portugal#45
+Romania	/search?q=portugal#46
+Romania	/search?q=portugal#47
+Romania	/search?q=portugal#48
+Romania	/search?q=portugal#49
+Romania	/search?q=portugal#50
+Romania	/search?q=portugal#51
+Romania	/search?q=portugal#52
+Romania	/search?q=portugal#54
+Romania	/search?q=portugal#55
+Romania	/search?q=portugal#58
+
+Romania	/search?q=slovenia#10
+Romania	/search?q=slovenia#11
+Romania	/search?q=slovenia#12
+Romania	/search?q=slovenia#13
+Romania	/search?q=slovenia#9
+
+Russia	/search?q=estonia#41
+Russia	/search?q=estonia#42
+Russia	/search?q=estonia#48
+Russia	/search?q=latvia#41
+Russia	/search?q=latvia#47
+Russia	/search?q=latvia#54
+Russia	/search?q=latvia#56
+Russia	/search?q=latvia#57
+Sweden	/search?q=estonia#36
+Sweden	/search?q=estonia#37
+Sweden	/search?q=estonia#38
+Sweden	/search?q=estonia#39
+Sweden	/search?q=estonia#40
+Sweden	/search?q=estonia#43
+Sweden	/search?q=estonia#44
+Sweden	/search?q=estonia#46
+Sweden	/search?q=estonia#47
+Sweden	/search?q=estonia#49
+Sweden	/search?q=germany#775
+Sweden	/search?q=latvia#45
+Sweden	/search?q=latvia#46
+Sweden	/search?q=latvia#48
+Sweden	/search?q=latvia#52
+
+
+Taiwan	/search?q=south korea#44
+Taiwan	/search?q=south korea#45
+
+
+
+United States	/search?q=albania#24
+United States	/search?q=albania#25
+United States	/search?q=brazil#45
+United States	/search?q=brazil#46
+United States	/search?q=brazil#47
+United States	/search?q=brazil#48
+United States	/search?q=brazil#49
+United States	/search?q=brazil#50
+United States	/search?q=brazil#51
+United States	/search?q=brazil#52
+United States	/search?q=brazil#69
+United States	/search?q=costa rica#24
+United States	/search?q=india#77
+United States	/search?q=mexico#47
+United States	/search?q=mexico#50
+United States	/search?q=mexico#51
+United States	/search?q=mexico#52
+United States	/search?q=mexico#53
+United States	/search?q=mexico#54
+United States	/search?q=mexico#55
+United States	/search?q=mexico#56
+United States	/search?q=mexico#57
+United States	/search?q=mexico#58
+United States	/search?q=mexico#59
+United States	/search?q=south korea#38
+United States	/search?q=united kingdom#872
+
+Vietnam	/search?q=sweden#391
+Vietnam	/search?q=sweden#392
+
+
+
+South Africa	/search?q=south korea#36
+South Africa	/search?q=south korea#37
+South Africa	/search?q=south korea#39
+South Africa	/search?q=south korea#40
+(not set)	/search?q=finland#139
+(not set)	/search?q=finland#140
+(not set)	/search?q=finland#141
+(not set)	/search?q=finland#142
+(not set)	/search?q=finland#143
+(not set)	/search?q=finland#144
+(not set)	/search?q=finland#145
+(not set)	/search?q=finland#146
+(not set)	/search?q=finland#147
+(not set)	/search?q=finland#148
+(not set)	/search?q=finland#149
+(not set)	/search?q=finland#150
+(not set)	/search?q=finland#151
+(not set)	/search?q=finland#152
+(not set)	/search?q=finland#153
+(not set)	/search?q=finland#154
+(not set)	/search?q=finland#155
+(not set)	/search?q=finland#156
+(not set)	/search?q=finland#157
+(not set)	/search?q=finland#158
+(not set)	/search?q=south africa#66
+(not set)	/search?q=south africa#67
+(not set)	/search?q=south africa#68
+(not set)	/search?q=south africa#69
+(not set)	/search?q=south africa#70
+(not set)	/search?q=south africa#71
+(not set)	/search?q=south africa#72
+(not set)	/search?q=south africa#73
+(not set)	/search?q=south africa#74
+(not set)	/search?q=south africa#75
+
+
+
+
+
+
+
+Belarus	/search?q=latvia#44
+Belarus	/search?q=latvia#49
+Belarus	/search?q=latvia#50
+Belarus	/search?q=latvia#51
+Belarus	/search?q=latvia#53
+Belarus	/search?q=latvia#55
+	
+Estonia	/search?q=iceland#48
+Estonia	/search?q=iceland#49
+Estonia	/search?q=iceland#50
+Estonia	/search?q=iceland#51
+Estonia	/search?q=iceland#52
+Estonia	/search?q=iceland#53
+Estonia	/search?q=iceland#54
+Estonia	/search?q=iceland#55
+Estonia	/search?q=iceland#56
+Estonia	/search?q=iceland#57
+Estonia	/search?q=iceland#59
+Estonia	/search?q=iceland#60
+Estonia	/search?q=iceland#61
+Estonia	/search?q=iceland#62
+
+United Kingdom	/search?q=czech republic#104
+United Kingdom	/search?q=czech republic#106
+United Kingdom	/search?q=czech republic#111
+United Kingdom	/search?q=france#439
+United Kingdom	/search?q=germany#502
+United Kingdom	/search?q=germany#750
+United Kingdom	/search?q=germany#764
+United Kingdom	/search?q=italy#146
+United Kingdom	/search?q=italy#147
+United Kingdom	/search?q=italy#148
+United Kingdom	/search?q=italy#149
+United Kingdom	/search?q=italy#150
+United Kingdom	/search?q=japan#518
+United Kingdom	/search?q=spain#131
+United Kingdom	/search?q=spain#132
+United Kingdom	/search?q=spain#133
+United Kingdom	/search?q=spain#134
+United Kingdom	/search?q=spain#136	
+
+
+Hong Kong	/search?q=japan#454
+Hong Kong	/search?q=japan#519
+Hong Kong	/search?q=japan#520
+Hong Kong	/search?q=japan#521
+Hong Kong	/search?q=japan#522
+Hong Kong	/search?q=japan#523
+Hong Kong	/search?q=japan#524
+Hong Kong	/search?q=japan#525
+Hong Kong	/search?q=japan#527
+Hong Kong	/search?q=japan#528
+Hong Kong	/search?q=japan#529
+Hong Kong	/search?q=japan#530
+Hong Kong	/search?q=japan#531
+Hong Kong	/search?q=south korea#29
+Hong Kong	/search?q=south korea#30
+Hong Kong	/search?q=south korea#31
+Hong Kong	/search?q=south korea#32
+Hong Kong	/search?q=south korea#43
+Hong Kong	/search?q=taiwan#39
+Hong Kong	/search?q=taiwan#40
+Hong Kong	/search?q=taiwan#41
+Hong Kong	/search?q=taiwan#42
+Hong Kong	/search?q=taiwan#43
+Hong Kong	/search?q=taiwan#44
+Hong Kong	/search?q=taiwan#45
+Hong Kong	/search?q=taiwan#46
+Hong Kong	/search?q=taiwan#47
+Hong Kong	/search?q=taiwan#48
+Hong Kong	/search?q=taiwan#49
+Hong Kong	/search?q=taiwan#50
+Hong Kong	/search?q=taiwan#51
+Hong Kong	/search?q=taiwan#52
+Hong Kong	/search?q=taiwan#53
+Hong Kong	/search?q=taiwan#54
+Hong Kong	/search?q=taiwan#55
+Hong Kong	/search?q=taiwan#56
+Hong Kong	/search?q=taiwan#58
+Hong Kong	/search?q=taiwan#59
+
+Israel	/search?q=cyprus#16
+Israel	/search?q=cyprus#18
+Israel	/search?q=cyprus#19
+
+

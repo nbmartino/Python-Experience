@@ -1,0 +1,45 @@
+South Africa #100
+Albania #22
+Argentina #30
+Australia #520
+Austria #94
+Belgium #196
+Bosnia and Herzegovina #10
+Brazil #66
+Bulgaria #46
+Canada #1058
+Chile #25
+Croatia #28
+Czech Republic #95
+Denmark #231
+France #684
+Georgia #9
+Germany #880
+Greece #39
+Hong Kong #219
+Hungary #54
+Indonesia #27
+Ireland #108
+Israel #39
+Italy #154
+Latvia=#42
+Luxembourg #95
+Malaysia #20
+Moldova #16
+Netherlands #860
+New Zealand #81
+North Macedonia #9
+Norway #144
+Poland #132
+Romania #66
+Serbia #49
+Singapore #479
+Slovakia #39
+Spain #167
+Sweden #527
+Switzerland #284
+Thailand #16
+Turkey #36
+Ukraine #32
+United Kingdom #1850
+Vietnam #18

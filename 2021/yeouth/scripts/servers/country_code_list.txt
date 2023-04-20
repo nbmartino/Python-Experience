@@ -1,0 +1,59 @@
+united kingdom uk
+canada ca
+poland pl
+netherlands nl
+denmark dk
+belgium be
+norway no
+hungary hu
+switzerland ch
+united states us
+austria at
+czech republic cz
+germany de
+france fr
+cyprus cy
+israel il
+bosnia and herzegovina ba
+singapore sg
+croatia hr
+japan jp
+slovakia sk
+spain es
+italy it
+romania ro
+bulgaria bg
+australia au
+vietnam vn
+south africa za
+ukraine ua
+luxembourg lu
+malaysia my
+greece gr
+latvia lv
+indonesia id
+sweden se
+portugal pt
+taiwan tw
+slovenia si
+brazil br
+ireland ie
+estonia ee
+turkey tr
+argentina ar
+serbia rs
+india in
+moldova md
+new zealand nz
+albania al
+hong kong hk
+chile cl
+georgia ge
+mexico mx
+thailand th
+iceland is
+south korea kr
+north macedonia mk
+costa rica cr
+united arab emirates ae
+finland fi

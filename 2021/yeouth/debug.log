@@ -1,0 +1,3 @@
+[0126/225005.442:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[0126/225005.443:ERROR:crash_report_exception_handler.cc(113)] WriteEverything failed
+[0126/225005.443:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\WIN10\AppData\Local\Temp\scoped_dir8504_1883493426\Crashpad\reports\52109a0f-6707-45c4-bc4d-21c0955b9eb6.dmp: The process cannot access the file because it is being used by another process. (0x20)

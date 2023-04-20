@@ -1,0 +1,28 @@
+The Process
+
+1. Query  server names list from NordVPN API
+ ~ https://api.nordvpn.com/v1/servers?limit=16384
+   * see below - Query server names per country from NordVPN API
+ ~ Trim the list to workable volume (currently 20 servers per country)
+    * Limit number of servers per country. [ see format_raw_list.py, limit_country_entries() function]
+    * Remove server names with dashes(dual country) and those with socks keyword. [Manual editing]
+
+
+3. Iterate the list of server and scrape a website while vpn is connected using selected country server. [ see Blogger_Search_TC_001.py ]
+
+
+3. Capture in Google analytics the requests that have matching country of origin and server name. Create a report:
+ ~ [Audience -> Geo -> Location], add second dimension: [Commonly used ->Page]
+
+
+4. Import  the list from GA to spreadsheet (google sheets).
+~ Select Country and Page tab, copy and paste to text editor
+  * Delete line that does not have a matchiing country name and server name.
+  * Remove the country name and only retain the server name and number for each of the entries.
+
+
+
+
+Query server names per country from NordVPN API: ( make sure JQ program is installed - https://stedolan.github.io/jq/ )
+
+ curl --silent "https://api.nordvpn.com/v1/servers?limit=16384" | jq --raw-output '. as $parent | [.[].locations[].country.name] | sort | unique | .[] as $country | ($parent | map(select(.locations[].country.name == $country).name) ) as $count |  [$country, $count] |  \"\(.[0]): \(.[1])\"'
